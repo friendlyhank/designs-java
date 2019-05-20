@@ -1,5 +1,9 @@
 package com.hank.mvcpatten;
 
+/**
+ * MVC模式
+ */
+
 public class MVCPatternDemo {
     public static void main(String[] args) {
 
