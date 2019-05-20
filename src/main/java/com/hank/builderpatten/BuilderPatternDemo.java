@@ -1,5 +1,8 @@
 package com.hank.builderpatten;
 
+/**
+ * 建造者模式
+ */
 public class BuilderPatternDemo {
     public static void main(String[] args) {
         MealBuilder mealBuilder = new MealBuilder();
