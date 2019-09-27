@@ -18,6 +18,10 @@ public class NameIterator implements   Iterator{
         return true;
     }
 
+    public Object First(){
+        return this.list.get(0);
+    }
+
     public Object next(){
         Object obj= null;
         if (this.hasNext()){
