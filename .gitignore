@@ -1,10 +1,2 @@
-.vscode
-.idea
-*.log
-.project
-debug
-*.pprof
-*.memprof
-
-
-
+.idea/*
+vendor/**/*git
